@@ -9,8 +9,8 @@ def parrot
 
 def
  parrot(phrase)
-puts ("Pretty bird!")
-return ("Pretty bird!")
+ parrot("Pretty bird!")
+parrot"Pretty bird!"
 
  end
  
