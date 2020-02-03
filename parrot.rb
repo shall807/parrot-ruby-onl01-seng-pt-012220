@@ -9,5 +9,7 @@ end
 
 
  parrot(phrase)
- puts ("parrot")
+ puts ("Pretty bird!")
+ return ("Pretty bird!")
  end
+ 
