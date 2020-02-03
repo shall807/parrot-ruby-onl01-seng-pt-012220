@@ -8,8 +8,8 @@ end
 end
 
 
- parrot("Pretty bird!")
- puts ("Pretty bird!")
- return ("Pretty bird!")
+ puts parrot("Pretty bird!")
+return ("Pretty bird!")
+
  end
  
