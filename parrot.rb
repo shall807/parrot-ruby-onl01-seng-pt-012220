@@ -8,7 +8,7 @@ end
 end
 
 
- parrot(phrase)
+ parrot("Pretty bird!")
  puts ("Pretty bird!")
  return ("Pretty bird!")
  end
